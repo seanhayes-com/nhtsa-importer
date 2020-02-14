@@ -5,7 +5,7 @@ Import tools to gather NHTSA automotive data using nhtsa.gov APIs found on:
 
 [NHTSA VPIC VIN and Vehicle Database](https://vpic.nhtsa.dot.gov/api/)
 
-##Installation
+### Installation
 Clone or download the repository
 
 Configure the .env.example file with your database settings and save as .env
@@ -17,7 +17,7 @@ php artisan key:generate
 php artisan migrate
 ```
 
-##Usage
+### Usage
 
 Import makes for each model year from NHTSA API:
 ``` bash
