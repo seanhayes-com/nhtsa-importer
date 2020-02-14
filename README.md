@@ -1,6 +1,8 @@
 # nhtsa-importer
 Import tools to gather NHTSA automotive data using nhtsa.gov APIs found on:
+
 [NHTSA Comlplaints and Recall API](https://webapi.nhtsa.gov/api/metadata)
+
 [NHTSA VPIC VIN and Vehicle Database](https://vpic.nhtsa.dot.gov/api/)
 
 ##Installation
